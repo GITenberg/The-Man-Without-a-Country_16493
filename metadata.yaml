@@ -1,0 +1,37 @@
+_repo: The-Man-Without-a-Country_16493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hale, Edward Everett
+    aliases:
+    - Hale, E. E. (Edward Everett)
+    - Hale, Edward E.
+    - Darragh, J. Thomas
+    - Ingham, Frederic
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+description: ''
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Stateless persons -- Fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Burr Conspiracy, 1805-1807 -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Exiles -- Fiction'
+- !lcsh 'Historical fiction'
+title: The Man Without a Country
+url: http://www.gutenberg.org/ebooks/16493
